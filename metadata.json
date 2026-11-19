@@ -1,0 +1,6 @@
+{
+  "name": "問候提示詞",
+  "description": "AI 全媒體問候提示詞設計師 — 支援早午晚安、生日與節慶圖文、動態影音(Sora/Runway)與音樂(Suno/Udio)高階提示詞生成、自訂署名與圖框記憶、參數管理與自動英譯。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
